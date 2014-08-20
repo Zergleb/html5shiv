@@ -1,0 +1,12 @@
+{
+  "name": "html5shiv",
+  "repo": "zergleb/html5shiv",
+  "description": "Componentized html5shiv",
+  "version": "3.7.2.1",
+  "keywords": ["html5shiv"],
+  "dependencies": {},
+  "scripts": [
+    "dist/html5shiv.js"
+  ],
+  "license": {"MIT", "GPL2"}
+}
